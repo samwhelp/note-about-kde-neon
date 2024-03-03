@@ -13,7 +13,14 @@ has_children: true
 | Link |
 | ---- |
 | [KDE neon](https://neon.kde.org/) |
+| KDE neon / [Download](https://neon.kde.org/download) |
 
+
+## News
+
+| News |
+| ---- |
+| [KDE neon 6 Available Now](https://blog.neon.kde.org/2024/02/28/kde-neon-6-available-now/) |
 
 
 

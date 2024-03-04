@@ -21,6 +21,7 @@ has_children: true
 | News |
 | ---- |
 | [KDE neon 6 Available Now](https://blog.neon.kde.org/2024/02/28/kde-neon-6-available-now/) |
+| [KDE MegaRelease 6](https://kde.org/announcements/megarelease/6/) |
 
 
 

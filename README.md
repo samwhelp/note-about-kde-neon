@@ -15,6 +15,7 @@
 ## 主題
 
 * [微調腳本](#微調腳本)
+* [按鍵綁定](#按鍵綁定)
 * [相關筆記](#相關筆記)
 
 
@@ -37,6 +38,16 @@
 | -------- | -------- |
 | [Breeze-Dark](https://github.com/samwhelp/kde-neon-adjustment/tree/main/prototype/V5/kde-config/locale/en_us/Breeze-Dark) | [Breeze-Dark](https://github.com/samwhelp/kde-neon-adjustment/tree/main/prototype/V5/kde-config/locale/zh_tw/Breeze-Dark) |
 | [Breeze-Light](https://github.com/samwhelp/kde-neon-adjustment/tree/main/prototype/V5/kde-config/locale/en_us/Breeze-Light) | [Breeze-Light](https://github.com/samwhelp/kde-neon-adjustment/tree/main/prototype/V5/kde-config/locale/zh_tw/Breeze-Light) |
+
+
+
+
+## 按鍵綁定
+
+| 按鍵綁定 |
+| --- |
+| [鍵盤按鍵綁定](https://samwhelp.github.io/note-about-kde-neon/read/config/keybind.html) |
+| [滑鼠按鍵綁定](https://samwhelp.github.io/note-about-kde-neon/read/config/mousebind.html) |
 
 
 

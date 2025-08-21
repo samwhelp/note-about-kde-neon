@@ -16,6 +16,7 @@
 
 * [微調腳本](#微調腳本)
 * [按鍵綁定](#按鍵綁定)
+* [Resource](#resource)
 * [相關筆記](#相關筆記)
 
 
@@ -48,6 +49,19 @@
 | --- |
 | [鍵盤按鍵綁定](https://samwhelp.github.io/note-about-kde-neon/read/config/keybind.html) |
 | [滑鼠按鍵綁定](https://samwhelp.github.io/note-about-kde-neon/read/config/mousebind.html) |
+
+
+
+
+## Kde Resource
+
+| Kde Resource |
+| ------------ |
+| [kde-plasma-layout-templates](https://github.com/samwhelp/kde-plasma-layout-templates) |
+| [kde-plasma-look-and-feel](https://github.com/samwhelp/kde-plasma-look-and-feel) |
+| [kde-plasma-layout-switch](https://github.com/samwhelp/kde-plasma-layout-switch) |
+| [kde-plasma-style-switch](https://github.com/samwhelp/kde-plasma-style-switch) |
+| [kde-plasma-keybind-switch](https://github.com/samwhelp/kde-plasma-keybind-switch) |
 
 
 
